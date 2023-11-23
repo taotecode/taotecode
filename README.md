@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=taotecode&theme=minimal" />
+</div>
+
 <!--
 **taotecode/taotecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
